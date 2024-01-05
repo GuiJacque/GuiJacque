@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuiJacque
 - 👀 I’m interested in html css and javascript
 - 🌱 I’m currently learning html, cause i'm new with this kind of stuff
-- 🧑🏿‍🔧 My name is Guilherme, i'm from Brazil and i'm 16 and i study mechatronics in a technical school
+- 🧑🏿‍🔧 My name is Guilherme, i'm from Brazil, i'm 16 and i study mechatronics in a technical school
 
 
 <!---
